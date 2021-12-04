@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Partyzra
 - 👀 I’m interested in creating all kinds of things
-- 🌱 I’m currently further learning C#
+- 🌱 I’m currently furthering my knowledge of C#
 - 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me ... my email/phone
 
